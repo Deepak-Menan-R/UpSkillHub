@@ -15,7 +15,7 @@ This is a Flask-based university learning platform that allows professors to upl
 
 1. **Clone the Repository**
    ```sh
-   git clone [<repository_url>](https://github.com/Deepak-Menan-R/UpSkillHub.git)
+   git clone https://github.com/Deepak-Menan-R/UpSkillHub.git
    cd UpSkillHub
    ```
 
